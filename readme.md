@@ -1,0 +1,1 @@
+This project is related to processing medical patient's documents and converting those to digital format using OCR.
